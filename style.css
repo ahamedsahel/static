@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    background-image: url("https://miro.medium.com/max/1000/0*EaEcmqXI3G5bRmnE");
+    height: 100%;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+html {
+    scroll-behavior: smooth;
+  }
+.row{
+    width: 100%;
+    background: #0000.5;
+    color: white;
+    padding: 23px;
+}
+h4{
+    margin-left: 60px;
+}
+.nav-item-active{
+    float: right;
+}
+.right{
+    
+    float: right;
+    color: red;
+    margin-right: 51px;
+    margin-top: 101px;
+}
+
+
+
+.text{
+    margin-left: 100px;
+}
+.pro{
+    width: 299px;
+    height: 374px;
+    border-radius: 128px;
+   
+    padding: 11px;
+    margin-top: 30px;
+}
+
+.card {
+    width: 307px;
+    height: 235px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(34,34,99,1) 38%, rgba(5,104,124,1) 80%);
+    margin-left: 60px;
+    border-radius: 5px;
+}
+.card:hover{
+    box-shadow:  -5px 4px 29px 2px rgba(228, 226, 180, 0.48);
+-webkit-box-shadow: -5px 4px 29px 2px rgba(161, 161, 149, 0.48);
+-moz-box-shadow: -5px 4px 29px 2px rgba(158, 158, 146, 0.48);
+}
+.logo-img{
+    width: 50px;
+    height: 40px;
+}
+p{
+
+    
+    overflow: hidden;
+    
+      
+}
